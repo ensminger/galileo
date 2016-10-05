@@ -36,32 +36,26 @@ Galileo will create its own table in your database to capture votes.  This will 
 
 
 ## Customization
-The public elements can be customized with CSS.  Simply target the content with these selectors:_[inserts public selectors here]_
+The public elements can be customized with CSS.  Simply target the content with these selectors: `[TODO] inserts public selectors here`
 
-Your theme's stylesheet should be included after this plugin's base stylesheet.
-
-If you would like to use your own styles entirely, deselect the "Output Default Styles" option in the plugin settings.
+Galileo's base stylesheet will be included near the top of the head array, so your theme / custom stylesheet should naturally override it. If there is any issue with this, or if you would like to use your own styles entirely, deselect the "Output Default Styles" option in the plugin's settings.
 
 
 
 ## License
-_[TODO] Unsure how to license this plugin, actually.  Will need to do my homework on Wordpress licensing_
-
-A copy of the license will be included in the root of the plugin’s directory as `LICENSE`.
+_[TODO] Unsure how to license this plugin, actually.  Will need to do my homework on Wordpress licensing_ A copy of the license will be included in the root of the plugin’s directory as `LICENSE`.
 
 
 
 ## Support, Issues, Development
-The plugin is provided as-is with no pretense of commercial support.
-
-Feedback is welcome and encouraged.  Issues, suggestions, and development are managed through Github.
+The plugin is provided as-is with no pretense of commercial support.  Feedback is welcome and encouraged.  Issues, suggestions, and development [are managed through Github.](https://github.com/ensminger/galileo/issues)
 
 
 
 ## Credits
 This project is built on the shining north star of plugin frameworks, [Wordpress Plugin Boilerplate](http://wppb.io/), and includes the magical and transcendent [ACF by Elliot Condon](https://www.advancedcustomfields.com/).
 
-All additional code, comments, and opinions expressed in this plugin are my own, or the contributions of the esteemed Github community.
+All additional code, comments, and opinions expressed in this plugin are either my own, or the contributions of the esteemed Github community.
 
 -- Phil Ensminger | [ensm.in/ger](http://ensm.in/ger)
 
