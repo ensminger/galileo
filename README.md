@@ -38,12 +38,12 @@ Galileo will create its own table in your database to capture votes.  This will 
 ## Customization
 The public elements can be customized with CSS.  Simply target the content with these selectors: `[TODO] inserts public selectors here`
 
-Galileo's base stylesheet will be included near the top of the head array, so your theme / custom stylesheet should naturally override it. If there is any issue with this, or if you would like to use your own styles entirely, deselect the "Output Default Styles" option in the plugin's settings.
+Galileo's base stylesheet will be included near the top of the head array, so your theme / custom stylesheet should naturally override it.
 
 
 
 ## License
-_[TODO] Unsure how to license this plugin, actually.  Will need to do my homework on Wordpress licensing_ A copy of the license will be included in the root of the plugin’s directory as `LICENSE`.
+_[TODO] Unsure how to license this plugin, actually.  Will need to do my homework on Wordpress licensing._  A copy of the license will be included in the root of the plugin’s directory as `LICENSE`.
 
 
 
